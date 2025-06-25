@@ -18,7 +18,7 @@ Please send an email from your official work address (...@admin.ch) to opensourc
 
 The list of [open source projects](https://github.com/swiss/index) from the federal administration is continuously updated — contributions via [pull request]([url](https://github.com/swiss/index/pulls)) are welcome.
 
-### Furter information
+### Further information
 
 For repository-specific questions, please refer to the contact details in the respective README files.
 For all other questions, contact opensource@bk.admin.ch and consult the [OSS Guidelines](https://github.com/swiss/opensource-guidelines).
